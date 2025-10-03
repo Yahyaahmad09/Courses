@@ -62,13 +62,10 @@ This project uses the following datasets:
 
 ## 🤝 **Contributing**
 
-💡 Have suggestions for improvement? Feel free to **contribute** by adding new content or refining existing ones. Submit a pull request with your changes! 🔧
+💡 Have suggestions for improvement? Feel free to **
+** by adding new content or refining existing ones. Submit a pull request with your changes! 🔧
 
 ---
-
-## 📜 **License**
-
-This project is licensed under the **MIT License**. 📝  
 
 Happy coding with PyTorch! 🎉🔥
 
